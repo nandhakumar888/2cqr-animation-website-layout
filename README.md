@@ -1,2 +1,2 @@
-# 2cqr animation website layout
+# 2CQR animation layout
  
